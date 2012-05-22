@@ -1,4 +1,4 @@
-grails-mantis
+mantisbt-grails-plugin
 =============
 
-Grails Mantis Plugin
+Mantis Bug Tracker Grails Plugin
